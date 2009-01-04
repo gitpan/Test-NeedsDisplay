@@ -15,6 +15,11 @@ MANIFEST			This list of files
 META.yml
 README
 t/01_compile.t
+t/02_skip_all.t
+t/10_run.t
+t/11_run.t
+t/12_run.t
 t/97_meta.t
 t/98_pod.t
 t/99_pmv.t
+t/lib/Display.pm
